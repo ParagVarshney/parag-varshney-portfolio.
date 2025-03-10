@@ -1,5 +1,6 @@
 const EdtechProjectImg =require("../assets/projectsImg/edtech.png");
 const InventoryControl =require("../assets/projectsImg/InventoryControl.png");
+const NetflixGpt=require("../assets/projectsImg/Netflix-Gpt.png");
 const BlogAppProjectImg=require("../assets/projectsImg/blog.png");
 const porfolioProject=require("../assets/projectsImg/portfolioProject.png");
 const videoConfrencingProject=require("../assets/projectsImg/videoConfrencingProject.png");
@@ -165,11 +166,11 @@ export const  projectsList=[
         demo:" https://inventory-management-rosy.vercel.app/"
     },
     {
-        // id:2,
-        // image:EdtechProjectImg,
-        // title:"A Edtech Project (StudyByte) That Created Using MERN,",
-        // github:"https://github.com/Sameerkhan9412/StudyByte",
-        // demo:"https://studybyte.vercel.app/"
+        id:2,
+        image:NetflixGpt,
+        title:"NetflixGPT: A responsive AI-powered movie and show recommendation app built with React.,",
+        github:"https://github.com/ParagVarshney/Netflix-Gpt",
+        demo:"https://netflix-gpt-zeta-bice.vercel.app/"
     },
     
     {
