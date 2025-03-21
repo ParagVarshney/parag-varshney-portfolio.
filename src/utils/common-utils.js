@@ -160,10 +160,10 @@ export const experienceOtherData=[
 export const  projectsList=[
     {
         id:1,
-        image:InventoryControl,
-        title:" Built a bookshop inventory management system to track stock and sales using mern stack.",
-        github:"https://github.com/ParagVarshney/BookShop-Inventory-Control-system",
-        demo:" https://inventory-management-rosy.vercel.app/"
+        image:youtubeClone,
+        title:"PV-Tube | The Ultimate Responsive Video Streaming Platform Seamless, High-Quality Streaming Anytime, Anywhere.Enjoy Your Favorite Videos with a Smooth and Engaging Experience!",
+        github:"https://github.com/ParagVarshney/pv-tube",
+        demo:"https://pv-tube.vercel.app/"
     },
     {
         id:2,
@@ -172,13 +172,12 @@ export const  projectsList=[
         github:"https://github.com/ParagVarshney/Netflix-Gpt",
         demo:"https://netflix-gpt-zeta-bice.vercel.app/"
     },
-    
     {
-        // id:5,
-        // image:youtubeClone,
-        // title:"Youtube Clone , Ultimate Video Streaming Plateform Using React",
-        // github:"https://github.com/Sameerkhan9412/Youtube-Clone-Using-React",
-        // demo:"https://samtube-youtube-clone.vercel.app/"
+        id:3,
+        image:InventoryControl,
+        title:" Built a bookshop inventory management system to track stock and sales using mern stack.",
+        github:"https://github.com/ParagVarshney/BookShop-Inventory-Control-system",
+        demo:" https://inventory-management-rosy.vercel.app/"
     },
     {
         // id:3,
